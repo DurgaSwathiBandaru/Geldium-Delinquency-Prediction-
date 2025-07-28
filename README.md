@@ -43,6 +43,6 @@ Identify risky credit card customers using financial behavior and help the Colle
 
 ## Dataset
 
-📄 `Delinquency_prediction_dataset.xlsx`  
+`Delinquency_prediction_dataset.xlsx`  
 Simulated customer behavior data including monthly payment history, income, card type, and delinquency status.
 
